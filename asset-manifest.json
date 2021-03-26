@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/covidtracker/static/css/main.5bdb8d4e.chunk.css",
+    "main.js": "/covidtracker/static/js/main.56721d98.chunk.js",
+    "main.js.map": "/covidtracker/static/js/main.56721d98.chunk.js.map",
+    "runtime-main.js": "/covidtracker/static/js/runtime-main.b5555a76.js",
+    "runtime-main.js.map": "/covidtracker/static/js/runtime-main.b5555a76.js.map",
+    "static/js/2.efb71349.chunk.js": "/covidtracker/static/js/2.efb71349.chunk.js",
+    "static/js/2.efb71349.chunk.js.map": "/covidtracker/static/js/2.efb71349.chunk.js.map",
+    "index.html": "/covidtracker/index.html",
+    "precache-manifest.66e46e4d7ee807b9a9dd2e0384080066.js": "/covidtracker/precache-manifest.66e46e4d7ee807b9a9dd2e0384080066.js",
+    "service-worker.js": "/covidtracker/service-worker.js",
+    "static/css/main.5bdb8d4e.chunk.css.map": "/covidtracker/static/css/main.5bdb8d4e.chunk.css.map",
+    "static/js/2.efb71349.chunk.js.LICENSE.txt": "/covidtracker/static/js/2.efb71349.chunk.js.LICENSE.txt",
+    "static/media/active.svg": "/covidtracker/static/media/active.39dadbc3.svg",
+    "static/media/deaths.svg": "/covidtracker/static/media/deaths.7ef8dd6a.svg",
+    "static/media/recovered.svg": "/covidtracker/static/media/recovered.c526ae2a.svg",
+    "static/media/total.svg": "/covidtracker/static/media/total.1058b2a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5555a76.js",
+    "static/js/2.efb71349.chunk.js",
+    "static/css/main.5bdb8d4e.chunk.css",
+    "static/js/main.56721d98.chunk.js"
+  ]
+}
